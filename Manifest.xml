@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Tyler Maffeo</Author>
+  <LastAuthor>Tyler Maffeo</LastAuthor>
+  <Created>2016-08-27T22:20:30Z</Created>
+  <LastSaved>2016-08-27T22:22:09Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9084</WindowHeight>
+  <WindowWidth>19368</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+   </Borders>
+   <Font ss:FontName="Consolas" x:Family="Modern" ss:Size="7" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#CCCCCC"/>
+   </Borders>
+   <Font ss:FontName="Consolas" x:Family="Modern" ss:Size="7" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="84" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:AutoFitWidth="0" ss:Width="355.20000000000005"/>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">&lt;OfficeApp xmlns=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &quot;http://schemas.microsoft.com/office/appforoffice/1.1&quot;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  xsi:type=&quot;MailApp&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Id&gt;971E76EF-D73E-567F-ADAE-5A76B39052CF&lt;/Id&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Version&gt;1.0&lt;/Version&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;ProviderName&gt;Microsoft&lt;/ProviderName&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;DefaultLocale&gt;en-us&lt;/DefaultLocale&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;DisplayName DefaultValue=&quot;YouTube&quot;/&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Description DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &quot;Watch YouTube videos referenced in the e-mails you  </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    receive without leaving your email client.&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Override Locale=&quot;fr-fr&quot; Value=&quot;Visualisez les vid????os</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      YouTube r????f????renc????es dans vos courriers ????lectronique</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      directement depuis Outlook et Outlook Web App.&quot;/&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;/Description&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;!&#45;- Change the following line to specify    &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;!&#45;- the web serverthat hosts the icon file. &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;IconUrl DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &quot;https://webserver/YouTube/YouTubeLogo.png&quot;/&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Hosts&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Host Name=&quot;Mailbox&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;/Hosts&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Requirements&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Sets DefaultMinVersion=&quot;1.1&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;Set Name=&quot;Mailbox&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;/Sets&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;/Requirements&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;FormSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Form xsi:type=&quot;ItemRead&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;DesktopSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- Change the following line to specify     &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- the web server that hosts the HTML file. &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;SourceLocation DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">          &quot;https://webserver/YouTube/YouTube_read_desktop.htm&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;RequestedHeight&gt;216&lt;/RequestedHeight&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;/DesktopSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;TabletSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- Change the following line to specify     &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- the web server that hosts the HTML file. &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;SourceLocation DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">          &quot;https://webserver/YouTube/YouTube_read_tablet.htm&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;RequestedHeight&gt;216&lt;/RequestedHeight&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;/TabletSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;/Form&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Form xsi:type=&quot;ItemEdit&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;DesktopSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- Change the following line to specify     &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- the web server that hosts the HTML file. &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;SourceLocation DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">          &quot;https://webserver/YouTube/YouTube_compose_desktop.htm&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;/DesktopSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;TabletSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- Change the following line to specify     &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;!&#45;- the web server that hosts the HTML file. &#45;-&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;SourceLocation DefaultValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">          &quot;https://webserver/YouTube/YouTube_compose_tablet.htm&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;/TabletSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;/Form&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;/FormSettings&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Permissions&gt;ReadWriteItem&lt;/Permissions&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;Rule xsi:type=&quot;RuleCollection&quot; Mode=&quot;Or&quot;&gt; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Rule xsi:type=&quot;RuleCollection&quot; Mode=&quot;And&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;Rule xsi:type=&quot;RuleCollection&quot; Mode=&quot;Or&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;Rule xsi:type=&quot;ItemIs&quot; ItemType=&quot;Appointment&quot; FormType=&quot;Read&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &lt;Rule xsi:type=&quot;ItemIs&quot; ItemType=&quot;Message&quot; FormType=&quot;Read&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;/Rule&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;Rule xsi:type=&quot;ItemHasRegularExpressionMatch&quot; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        PropertyName=&quot;BodyAsPlaintext&quot; RegExName=&quot;VideoURL&quot; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        RegExValue=</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        &quot;http://(((www\.)?youtube\.com/watch\?v=)|</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">        (youtu\.be/))[a-zA-Z0-9_-]{11}&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;/Rule&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;Rule xsi:type=&quot;RuleCollection&quot; Mode=&quot;Or&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;Rule xsi:type=&quot;ItemIs&quot; ItemType=&quot;Appointment&quot; FormType=&quot;Edit&quot; /&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">      &lt;Rule xsi:type=&quot;ItemIs&quot; ItemType=&quot;Message&quot; FormType=&quot;Edit&quot; /&gt; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">    &lt;/Rule&gt; </Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">  &lt;/Rule&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">&lt;/OfficeApp&gt;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
